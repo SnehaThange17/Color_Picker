@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Color Picker",
+  "description": "A simple color picker extension. Easily pick any color on the screen, view the color and copy it on a single click.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "Icons/icon16.png",
+    "32": "Icons/icon32.png",
+    "48": "Icons/icon48.png",
+    "128": "Icons/icon128.png"
+  }
+}
